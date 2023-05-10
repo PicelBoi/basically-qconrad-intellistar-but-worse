@@ -6,7 +6,7 @@ This is a local forecast segment that airs on The Weather Channel called the "Lo
 This version of the emulator was changed to my liking and is hosted via GitHub Sites.. If you are the owner of any of these assets, contact me at etan.zheng09@gmail.com.
 
 ## Copyright
-Pull requests https://github.com/qconrad/intellistar-emulator/pull/41, https://github.com/qconrad/intellistar-emulator/pull/40, and https://github.com/qconrad/intellistar-emulator/pull/42 were used.
+Pull requests https://github.com/qconrad/intellistar-emulator/pull/41, https://github.com/qconrad/intellistar-emulator/pull/40, and https://github.com/qconrad/intellistar-emulator/pull/39 were used.
 
 Music is from Deltarune, TWC, Kirby: Planet Robobot, Kirby: Triple Deluxe, Kirby: Right Back At Ya (Italian), Kirby and The Forgotten Land, and The Sims 2 & 3.
 
