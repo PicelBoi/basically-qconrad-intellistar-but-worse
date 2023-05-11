@@ -8,11 +8,17 @@ This version of the emulator was changed to my liking and is hosted via GitHub S
 ## Copyright
 Pull requests https://github.com/qconrad/intellistar-emulator/pull/41, https://github.com/qconrad/intellistar-emulator/pull/40, and https://github.com/qconrad/intellistar-emulator/pull/39 were used.
 
-Music is from Deltarune, TWC, Kirby: Planet Robobot, Kirby: Triple Deluxe, Kirby: Right Back At Ya (Italian), Kirby and The Forgotten Land, and The Sims 2 & 3.
+Music is from Deltarune, TWC, Kirby: Planet Robobot, Kirby: Triple Deluxe, Kirby: Right Back At Ya (Italian), Kirby and The Forgotten Land, mr.rock, and The Sims 2 & 3.
 
 Fonts are IBM Plex Sans and Interstate.
 
 All assets belong to their respective owners.
+
+Background:
+The Sims 3 Intro Remake by JonySimmer: https://www.youtube.com/watch?v=z4OPZPTeJz8&pp=ygUfa2lyYnkgcmV0dXJuIHRvIGRyZWFtbGFuZCBpbnRybw%3D%3D
+Kirby's Return to Dreamland Intro: https://www.youtube.com/watch?v=z4OPZPTeJz8&pp=ygUfa2lyYnkgcmV0dXJuIHRvIGRyZWFtbGFuZCBpbnRybw%3D%3D
+Kirby: Triple Deluxe Intro Cutscene: https://www.youtube.com/watch?v=RAaTS_F5FCk
+will list more soon if my lazy butt starts chugging!
 
 ## Instructions
 ## Option 1 (easier)
