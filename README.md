@@ -37,5 +37,6 @@ Most of core animation and logic has been replicated including severe weather al
 To enable or disable looping, click on the TWC logo in the info-bar in the top-left corner of the emulator.
 
 To get looping working properly, you may (as of Chrome M66) have to go to chrome://flags#autoplay-policy (Autoplay Policy) and change it to `User gesture is required for cross-origin iframes` or `No user gesture is required`  
-
+## Licensing
+The PicelBoi Channel © 2023 by Etan Zheng is licensed under CC BY-SA 4.0 
 
