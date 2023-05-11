@@ -9,7 +9,7 @@ const jingle = new Audio("assets/music/jingle.wav")
 const crawlSpeedCasual = 10; // A normal reading pace, in characters per second
 const crawlSpeedFast = 20; // A fast reading pace, in characters per second
 const crawlScreenTime = 45; // Shortest time crawl will be on screen, in seconds
-const crawlSpace = 70; // Approx number of characters that can fix in the crawl bar. Used for crawl speed calcs
+const crawlSpace = 1200; // Approx number of characters that can fix in the crawl bar. Used for crawl speed calcs
 
 
 var isDay = true;
@@ -22,8 +22,8 @@ window.onload = function() {
   CONFIG.addOption('zip-code', 'ZIP Code', '00000')
   CONFIG.addOption('crawlText', 'Crawl Text', 'Text that scrolls along the bottom.')
   CONFIG.addOption('greetingText', 'Greeting Text', 'Message (or joke) that appears at the start.')
-  CONFIG.addOption('AmazingOutThere', 'Amazing Out There', 'Text that is shown at the end of a non-storm broadcast.')
-  CONFIG.addOption('StayTuned', 'Stay Tuned Message', 'Text that is shown at the end of a storm broadcast.')
+  CONFIG.addOption('AmazingOutThere', 'Amazing Out There (not used)', 'Text that is shown at the end of a non-storm broadcast.')
+  CONFIG.addOption('StayTuned', 'Stay Tuned Message (not used)', 'Text that is shown at the end of a storm broadcast.')
   CONFIG.load();
   preLoadMusic();
   setMainBackground();
