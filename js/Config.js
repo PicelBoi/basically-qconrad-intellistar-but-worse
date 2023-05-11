@@ -1,5 +1,5 @@
 window.CONFIG = {
- crawl: 'KAABII DAYO',
+ crawl: "This is a emulation of the Intellistar, a cable headend used by TWC up to 2015. This is a modification of QConrad's Intellistar emulator, which can be found here: https://github.com/qconrad/intellistar-emulator.",
   greeting: 'This is your weather',
   language: 'en-US', // Supported in TWC API
   countryCode: 'US', // Supported in TWC API (for postal key)
